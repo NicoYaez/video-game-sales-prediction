@@ -2,7 +2,6 @@
 
 ## The Data
 
-Rank - Ranking of overall sales  
 Name - The games name  
 Platform - Platform of the games release (i.e. PC,PS4, etc.)  
 Year - Year of the game's release  
