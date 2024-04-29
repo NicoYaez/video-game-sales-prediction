@@ -7,9 +7,6 @@ Creativity, innovation and passion for entertainment are the pillars of the indu
 The video game industry not only entertains, it also educates, informs and generates new forms of social interaction. Video games have become a powerful tool for learning, collaboration and skills development.
 In this context, understanding the factors that determine the success of a video game is crucial for all industry players. This report aims to analyze in depth the global sales of video games, identify the variables that influence the success of a game and develop a predictive model to help make strategic decisions.
 
-
-Translated with DeepL.com (free version)
-
 ## The Data
 
 Name - The games name  
