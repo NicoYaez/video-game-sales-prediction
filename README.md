@@ -20,6 +20,10 @@ JP_Sales - Sales in Japan (in millions)
 Other_Sales - Sales in the rest of the world (in millions)  
 Global_Sales - Total worldwide sales.  
 
+## Model tensorflow
+
+![alt text](image.png)
+
 ## Files in this repo
 - `Video_juegos.csv` dataset video games sales
 - `Solemne1.ipynb` jupyter notebook
